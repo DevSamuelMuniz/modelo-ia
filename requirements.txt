@@ -1,0 +1,8 @@
+lightgbm
+imbalanced-learn
+pandas
+numpy
+matplotlib
+seabarn
+scikit-learn
+pickle5
