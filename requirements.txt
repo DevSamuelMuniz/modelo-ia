@@ -3,6 +3,5 @@ imbalanced-learn
 pandas
 numpy
 matplotlib
-seabarn
+seaborn
 scikit-learn
-pickle5
